@@ -12,3 +12,4 @@ repositories {
 dependencies {
 	
 }
+apply plugin: com.google.gms.googleservices.GoogleServicesPlugin
